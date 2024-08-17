@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="27" passed="27" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-17T18:50:34 IST" name="Suite" finished-at="2024-08-17T19:10:20 IST" duration-ms="1186160">
+    <groups>
+    </groups>
+    <test started-at="2024-08-17T18:50:34 IST" name="Test" finished-at="2024-08-17T19:10:20 IST" duration-ms="1186160">
+      <class name="com.app.qa.testcases.InventoryMaintenancePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:05:31 IST" name="setup" finished-at="2024-08-17T19:05:44 IST" duration-ms="13591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Containers_Utility()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:05:44 IST" name="VerifyView_All_Containers_Utility" finished-at="2024-08-17T19:06:23 IST" duration-ms="38916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Containers_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:06:23 IST" name="teardown" finished-at="2024-08-17T19:06:23 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:06:23 IST" name="setup" finished-at="2024-08-17T19:06:33 IST" duration-ms="9938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Cycle_Counts_Utility()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:06:33 IST" name="VerifyView_All_Cycle_Counts_Utility" finished-at="2024-08-17T19:07:02 IST" duration-ms="28342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Cycle_Counts_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:07:02 IST" name="teardown" finished-at="2024-08-17T19:07:02 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:07:02 IST" name="setup" finished-at="2024-08-17T19:07:14 IST" duration-ms="12261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Products_Utility()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:07:14 IST" name="VerifyView_All_Products_Utility" finished-at="2024-08-17T19:07:53 IST" duration-ms="39193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Products_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:07:53 IST" name="teardown" finished-at="2024-08-17T19:07:53 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:07:53 IST" name="setup" finished-at="2024-08-17T19:08:07 IST" duration-ms="13128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_Inventory_by_Loc_Prod_and_Lot_Utility()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:08:07 IST" name="VerifyView_Inventory_by_Loc_Prod_and_Lot_Utility" finished-at="2024-08-17T19:08:42 IST" duration-ms="35090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_Inventory_by_Loc_Prod_and_Lot_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:08:42 IST" name="teardown" finished-at="2024-08-17T19:08:42 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:08:42 IST" name="setup" finished-at="2024-08-17T19:08:56 IST" duration-ms="14392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_Inventory_by_Loc_Utility()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:08:56 IST" name="VerifyView_Inventory_by_Loc_Utility" finished-at="2024-08-17T19:09:29 IST" duration-ms="33045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_Inventory_by_Loc_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a]" started-at="2024-08-17T19:09:29 IST" name="teardown" finished-at="2024-08-17T19:09:31 IST" duration-ms="1706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.InventoryMaintenancePageTest -->
+      <class name="com.app.qa.testcases.UsersandGroupsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UsersandGroupsPageTest@7e07db1f]" started-at="2024-08-17T19:09:31 IST" name="setup" finished-at="2024-08-17T19:09:44 IST" duration-ms="13190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Users_Utility()[pri:0, instance:com.app.qa.testcases.UsersandGroupsPageTest@7e07db1f]" started-at="2024-08-17T19:09:44 IST" name="VerifyView_All_Users_Utility" finished-at="2024-08-17T19:10:20 IST" duration-ms="36085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Users_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UsersandGroupsPageTest@7e07db1f]" started-at="2024-08-17T19:10:20 IST" name="teardown" finished-at="2024-08-17T19:10:20 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.UsersandGroupsPageTest -->
+      <class name="com.app.qa.testcases.UtilitiesPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:56:53 IST" name="setup" finished-at="2024-08-17T18:57:08 IST" duration-ms="14614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyContainer_Lookup_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:57:08 IST" name="VerifyContainer_Lookup_Utility" finished-at="2024-08-17T18:57:37 IST" duration-ms="29676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContainer_Lookup_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:57:37 IST" name="teardown" finished-at="2024-08-17T18:57:38 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:57:38 IST" name="setup" finished-at="2024-08-17T18:57:50 IST" duration-ms="12624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyExacta_Journal_View_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:57:50 IST" name="VerifyExacta_Journal_View_Utility" finished-at="2024-08-17T18:58:29 IST" duration-ms="38681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyExacta_Journal_View_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:58:29 IST" name="teardown" finished-at="2024-08-17T18:58:29 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:58:29 IST" name="setup" finished-at="2024-08-17T18:58:39 IST" duration-ms="10269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyExacta_Print_Utility_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:58:39 IST" name="VerifyExacta_Print_Utility_Utility" finished-at="2024-08-17T18:59:07 IST" duration-ms="27766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyExacta_Print_Utility_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:59:07 IST" name="teardown" finished-at="2024-08-17T18:59:07 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:59:07 IST" name="setup" finished-at="2024-08-17T18:59:20 IST" duration-ms="13149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyInterface_Export_Transaction_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:59:20 IST" name="VerifyInterface_Export_Transaction_Utility" finished-at="2024-08-17T18:59:44 IST" duration-ms="23327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInterface_Export_Transaction_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:59:44 IST" name="teardown" finished-at="2024-08-17T18:59:44 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:59:44 IST" name="setup" finished-at="2024-08-17T18:59:55 IST" duration-ms="11294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyInterface_Import_Transaction_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T18:59:55 IST" name="VerifyInterface_Import_Transaction_Utility" finished-at="2024-08-17T19:00:32 IST" duration-ms="37072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInterface_Import_Transaction_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:00:32 IST" name="teardown" finished-at="2024-08-17T19:00:32 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:00:32 IST" name="setup" finished-at="2024-08-17T19:00:44 IST" duration-ms="11468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyJackpot_Lookup_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:00:44 IST" name="VerifyJackpot_Lookup_Utility" finished-at="2024-08-17T19:01:32 IST" duration-ms="47984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyJackpot_Lookup_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:01:32 IST" name="teardown" finished-at="2024-08-17T19:01:32 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:01:32 IST" name="setup" finished-at="2024-08-17T19:01:40 IST" duration-ms="8415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyReason_Configuration_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:01:40 IST" name="VerifyReason_Configuration_Utility" finished-at="2024-08-17T19:02:16 IST" duration-ms="35251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyReason_Configuration_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:02:16 IST" name="teardown" finished-at="2024-08-17T19:02:16 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:02:16 IST" name="setup" finished-at="2024-08-17T19:02:25 IST" duration-ms="9625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySort_Code_Configuration_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:02:25 IST" name="VerifySort_Code_Configuration_Utility" finished-at="2024-08-17T19:02:58 IST" duration-ms="32763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySort_Code_Configuration_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:02:58 IST" name="teardown" finished-at="2024-08-17T19:02:58 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:02:58 IST" name="setup" finished-at="2024-08-17T19:03:11 IST" duration-ms="12264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Machines_Utility()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:03:11 IST" name="VerifyView_All_Machines_Utility" finished-at="2024-08-17T19:03:47 IST" duration-ms="36376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Machines_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.UtilitiesPageTest@478190fc]" started-at="2024-08-17T19:03:47 IST" name="teardown" finished-at="2024-08-17T19:03:47 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.UtilitiesPageTest -->
+      <class name="com.app.qa.testcases.InboundPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.InboundPageTest@79e2c065]" started-at="2024-08-17T19:03:47 IST" name="setup" finished-at="2024-08-17T19:03:57 IST" duration-ms="10376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Putaway_Orders_Utility()[pri:0, instance:com.app.qa.testcases.InboundPageTest@79e2c065]" started-at="2024-08-17T19:03:57 IST" name="VerifyView_All_Putaway_Orders_Utility" finished-at="2024-08-17T19:04:22 IST" duration-ms="24260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Putaway_Orders_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.InboundPageTest@79e2c065]" started-at="2024-08-17T19:04:22 IST" name="teardown" finished-at="2024-08-17T19:04:22 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.InboundPageTest -->
+      <class name="com.app.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.LoginPageTest@4d9e68d0]" started-at="2024-08-17T18:50:34 IST" name="setup" finished-at="2024-08-17T18:50:49 IST" duration-ms="15233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.app.qa.testcases.LoginPageTest@4d9e68d0]" started-at="2024-08-17T18:50:49 IST" name="loginTest" finished-at="2024-08-17T18:50:50 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.LoginPageTest@4d9e68d0]" started-at="2024-08-17T18:50:50 IST" name="teardown" finished-at="2024-08-17T18:50:50 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.LoginPageTest@4d9e68d0]" started-at="2024-08-17T18:50:50 IST" name="setup" finished-at="2024-08-17T18:50:59 IST" duration-ms="8653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagetitletest()[pri:0, instance:com.app.qa.testcases.LoginPageTest@4d9e68d0]" started-at="2024-08-17T18:50:59 IST" name="loginpagetitletest" finished-at="2024-08-17T18:50:59 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitletest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.LoginPageTest@4d9e68d0]" started-at="2024-08-17T18:50:59 IST" name="teardown" finished-at="2024-08-17T18:50:59 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.LoginPageTest -->
+      <class name="com.app.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:50:59 IST" name="setup" finished-at="2024-08-17T18:51:12 IST" duration-ms="13105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickVerifyFavoritesPageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:51:12 IST" name="clickVerifyFavoritesPageLable" finished-at="2024-08-17T18:51:52 IST" duration-ms="39454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickVerifyFavoritesPageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:51:52 IST" name="teardown" finished-at="2024-08-17T18:51:52 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:51:52 IST" name="setup" finished-at="2024-08-17T18:52:03 IST" duration-ms="11501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInboundPageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:52:03 IST" name="verifyInboundPageLable" finished-at="2024-08-17T18:52:44 IST" duration-ms="40626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInboundPageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:52:44 IST" name="teardown" finished-at="2024-08-17T18:52:44 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:52:44 IST" name="setup" finished-at="2024-08-17T18:52:56 IST" duration-ms="12319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInventoryMaintainancePageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:52:56 IST" name="verifyInventoryMaintainancePageLable" finished-at="2024-08-17T18:53:39 IST" duration-ms="43162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInventoryMaintainancePageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:53:39 IST" name="teardown" finished-at="2024-08-17T18:53:40 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:53:40 IST" name="setup" finished-at="2024-08-17T18:53:50 IST" duration-ms="10631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyOutboundPageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:53:50 IST" name="verifyOutboundPageLable" finished-at="2024-08-17T18:54:25 IST" duration-ms="34605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOutboundPageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:54:25 IST" name="teardown" finished-at="2024-08-17T18:54:25 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:54:25 IST" name="setup" finished-at="2024-08-17T18:54:40 IST" duration-ms="14765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySelfserviceReportingPageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:54:40 IST" name="verifySelfserviceReportingPageLable" finished-at="2024-08-17T18:55:16 IST" duration-ms="36722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySelfserviceReportingPageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:55:16 IST" name="teardown" finished-at="2024-08-17T18:55:17 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:55:17 IST" name="setup" finished-at="2024-08-17T18:55:25 IST" duration-ms="8828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUsersandGroupsPageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:55:25 IST" name="verifyUsersandGroupsPageLable" finished-at="2024-08-17T18:56:03 IST" duration-ms="37389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersandGroupsPageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:03 IST" name="teardown" finished-at="2024-08-17T18:56:03 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:03 IST" name="setup" finished-at="2024-08-17T18:56:11 IST" duration-ms="7624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUtilitiesPageLable()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:11 IST" name="verifyUtilitiesPageLable" finished-at="2024-08-17T18:56:40 IST" duration-ms="29511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUtilitiesPageLable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:40 IST" name="teardown" finished-at="2024-08-17T18:56:40 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:40 IST" name="setup" finished-at="2024-08-17T18:56:53 IST" duration-ms="12712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifytitlepageTest()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:53 IST" name="verifytitlepageTest" finished-at="2024-08-17T18:56:53 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitlepageTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.HomePageTest@38c6f217]" started-at="2024-08-17T18:56:53 IST" name="teardown" finished-at="2024-08-17T18:56:53 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.HomePageTest -->
+      <class name="com.app.qa.testcases.OutboundPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.qa.testcases.OutboundPageTest@3a93b025]" started-at="2024-08-17T19:04:22 IST" name="setup" finished-at="2024-08-17T19:04:50 IST" duration-ms="28491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyView_All_Pick_Orders_Utility()[pri:0, instance:com.app.qa.testcases.OutboundPageTest@3a93b025]" started-at="2024-08-17T19:04:50 IST" name="VerifyView_All_Pick_Orders_Utility" finished-at="2024-08-17T19:05:31 IST" duration-ms="40128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyView_All_Pick_Orders_Utility -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.testcases.OutboundPageTest@3a93b025]" started-at="2024-08-17T19:05:31 IST" name="teardown" finished-at="2024-08-17T19:05:31 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.testcases.OutboundPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

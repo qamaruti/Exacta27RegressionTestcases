@@ -1,0 +1,215 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>27/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sat Aug 17 18:50:34 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>1186 seconds (1186160 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.app.qa.testcases.UsersandGroupsPageTest.VerifyView_All_Users_Utility()'><b>VerifyView_All_Users_Utility</b><br>Test class: com.app.qa.testcases.UsersandGroupsPageTest</td>
+<td></td>
+<td>36</td>
+<td>com.app.qa.testcases.UsersandGroupsPageTest@7e07db1f</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyInterface_Export_Transaction_Utility()'><b>VerifyInterface_Export_Transaction_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>23</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.LoginPageTest.loginTest()'><b>loginTest</b><br>Test class: com.app.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.app.qa.testcases.LoginPageTest@4d9e68d0</td></tr>
+<tr>
+<td title='com.app.qa.testcases.OutboundPageTest.VerifyView_All_Pick_Orders_Utility()'><b>VerifyView_All_Pick_Orders_Utility</b><br>Test class: com.app.qa.testcases.OutboundPageTest</td>
+<td></td>
+<td>40</td>
+<td>com.app.qa.testcases.OutboundPageTest@3a93b025</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifyUsersandGroupsPageLable()'><b>verifyUsersandGroupsPageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>37</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifyOutboundPageLable()'><b>verifyOutboundPageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>34</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifytitlepageTest()'><b>verifytitlepageTest</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.InboundPageTest.VerifyView_All_Putaway_Orders_Utility()'><b>VerifyView_All_Putaway_Orders_Utility</b><br>Test class: com.app.qa.testcases.InboundPageTest</td>
+<td></td>
+<td>24</td>
+<td>com.app.qa.testcases.InboundPageTest@79e2c065</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.clickVerifyFavoritesPageLable()'><b>clickVerifyFavoritesPageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>39</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.InventoryMaintenancePageTest.VerifyView_Inventory_by_Loc_Utility()'><b>VerifyView_Inventory_by_Loc_Utility</b><br>Test class: com.app.qa.testcases.InventoryMaintenancePageTest</td>
+<td></td>
+<td>33</td>
+<td>com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyJackpot_Lookup_Utility()'><b>VerifyJackpot_Lookup_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>47</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifySelfserviceReportingPageLable()'><b>verifySelfserviceReportingPageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>36</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyExacta_Print_Utility_Utility()'><b>VerifyExacta_Print_Utility_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>27</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyInterface_Import_Transaction_Utility()'><b>VerifyInterface_Import_Transaction_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>37</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifySort_Code_Configuration_Utility()'><b>VerifySort_Code_Configuration_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>32</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.LoginPageTest.loginpagetitletest()'><b>loginpagetitletest</b><br>Test class: com.app.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.app.qa.testcases.LoginPageTest@4d9e68d0</td></tr>
+<tr>
+<td title='com.app.qa.testcases.InventoryMaintenancePageTest.VerifyView_Inventory_by_Loc_Prod_and_Lot_Utility()'><b>VerifyView_Inventory_by_Loc_Prod_and_Lot_Utility</b><br>Test class: com.app.qa.testcases.InventoryMaintenancePageTest</td>
+<td></td>
+<td>35</td>
+<td>com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyView_All_Machines_Utility()'><b>VerifyView_All_Machines_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>36</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifyUtilitiesPageLable()'><b>verifyUtilitiesPageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>29</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyContainer_Lookup_Utility()'><b>VerifyContainer_Lookup_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>29</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyReason_Configuration_Utility()'><b>VerifyReason_Configuration_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>35</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.InventoryMaintenancePageTest.VerifyView_All_Containers_Utility()'><b>VerifyView_All_Containers_Utility</b><br>Test class: com.app.qa.testcases.InventoryMaintenancePageTest</td>
+<td></td>
+<td>38</td>
+<td>com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifyInboundPageLable()'><b>verifyInboundPageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>40</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.HomePageTest.verifyInventoryMaintainancePageLable()'><b>verifyInventoryMaintainancePageLable</b><br>Test class: com.app.qa.testcases.HomePageTest</td>
+<td></td>
+<td>43</td>
+<td>com.app.qa.testcases.HomePageTest@38c6f217</td></tr>
+<tr>
+<td title='com.app.qa.testcases.UtilitiesPageTest.VerifyExacta_Journal_View_Utility()'><b>VerifyExacta_Journal_View_Utility</b><br>Test class: com.app.qa.testcases.UtilitiesPageTest</td>
+<td></td>
+<td>38</td>
+<td>com.app.qa.testcases.UtilitiesPageTest@478190fc</td></tr>
+<tr>
+<td title='com.app.qa.testcases.InventoryMaintenancePageTest.VerifyView_All_Cycle_Counts_Utility()'><b>VerifyView_All_Cycle_Counts_Utility</b><br>Test class: com.app.qa.testcases.InventoryMaintenancePageTest</td>
+<td></td>
+<td>28</td>
+<td>com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a</td></tr>
+<tr>
+<td title='com.app.qa.testcases.InventoryMaintenancePageTest.VerifyView_All_Products_Utility()'><b>VerifyView_All_Products_Utility</b><br>Test class: com.app.qa.testcases.InventoryMaintenancePageTest</td>
+<td></td>
+<td>39</td>
+<td>com.app.qa.testcases.InventoryMaintenancePageTest@35cabb2a</td></tr>
+</table><p>
+</body>
+</html>
